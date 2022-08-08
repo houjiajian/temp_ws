@@ -10,3 +10,6 @@
 [submodule "Wato_Conti_Radar_Collab"]
 	path = Wato_Conti_Radar_Collab
 	url = https://github.com/WATonomous/Wato_Conti_Radar_Collab.git
+[submodule "JetsonGPIO"]
+	path = JetsonGPIO
+	url = https://github.com/pjueon/JetsonGPIO.git
