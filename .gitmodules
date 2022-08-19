@@ -10,3 +10,6 @@
 [submodule "rplidar_sdk"]
 	path = rplidar_sdk
 	url = https://github.com/Slamtec/rplidar_sdk.git
+[submodule "threadtest"]
+	path = threadtest
+	url = https://github.com/jorionwen/threadtest.git
