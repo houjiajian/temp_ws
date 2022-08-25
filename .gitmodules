@@ -13,3 +13,6 @@
 [submodule "threadtest"]
 	path = threadtest
 	url = https://github.com/jorionwen/threadtest.git
+[submodule "RoboRTS"]
+	path = RoboRTS
+	url = https://github.com/RoboMaster/RoboRTS.git
