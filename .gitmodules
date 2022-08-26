@@ -16,3 +16,6 @@
 [submodule "RoboRTS"]
 	path = RoboRTS
 	url = https://github.com/RoboMaster/RoboRTS.git
+[submodule "cyberdog_ros2"]
+	path = cyberdog_ros2
+	url = https://github.com/MiRoboticsLab/cyberdog_ros2.git
