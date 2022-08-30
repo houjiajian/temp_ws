@@ -19,3 +19,6 @@
 [submodule "cyberdog_ros2"]
 	path = cyberdog_ros2
 	url = https://github.com/MiRoboticsLab/cyberdog_ros2.git
+[submodule "opencv_cam"]
+	path = opencv_cam
+	url = https://github.com/clydemcqueen/opencv_cam.git
