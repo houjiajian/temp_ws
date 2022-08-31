@@ -22,3 +22,9 @@
 [submodule "opencv_cam"]
 	path = opencv_cam
 	url = https://github.com/clydemcqueen/opencv_cam.git
+[submodule "gscam2"]
+	path = gscam2
+	url = https://github.com/clydemcqueen/gscam2.git
+[submodule "image_transport_tutorials"]
+	path = image_transport_tutorials
+	url = https://github.com/ros-perception/image_transport_tutorials.git
